@@ -1,7 +1,7 @@
 #ifndef THEN_H
 #define THEN_H
 
-#include BinaryExpression.h
+#include "BinaryExpression.h"
 
 namespace core
 {
@@ -13,3 +13,5 @@ namespace core
 		virtual T evaluate(Expression<T>*, Expression<T>*) const;
 	}
 }
+
+#endif
