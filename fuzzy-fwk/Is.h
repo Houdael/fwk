@@ -11,7 +11,7 @@ namespace core
 	{
 		virtual ~Is() = default;
 		virtual T evaluate(Expression<T>*) const=0;
-	}
+	};
 }
 
 #endif
