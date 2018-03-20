@@ -3,7 +3,7 @@
 
 #include "BinaryExpression.h"
 
-namespace core
+namespace fuzzy
 {
 	template <typename T>
 	class Agg : public BinaryExpression<T>
