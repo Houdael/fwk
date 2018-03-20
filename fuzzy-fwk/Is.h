@@ -3,7 +3,7 @@
 
 #include "UnaryExpression.h"
 
-namespace core
+namespace fuzzy
 {
 
 	template <class T>
