@@ -3,7 +3,7 @@
 
 #include "Expression.h"
 
-namespace core 
+namespace fuzzy 
 {
     template <typename T>
       class BinaryExpression
